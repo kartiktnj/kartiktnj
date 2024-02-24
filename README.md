@@ -7,9 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kartiktnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartiktnj" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kartiktnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya saish" height="30" width="40" /></a>
-<a href="https://kartiktaneja.vercel.app/" target="blank"><img align="center" src="https://github.com/kartiktnj/kartiktnj/assets/59070901/1d25c1cf-05e9-49b7-ae8c-f2f87d046a8c" alt="Kartik Taneja" height="45" width="45" /></a>
+<a href="https://twitter.com/kartiktnj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartiktnj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kartiktnj" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya saish" height="30" width="40" /></a>
+<a href="https://kartiktaneja.vercel.app/" target="_blank"><img align="center" src="https://github.com/kartiktnj/kartiktnj/assets/59070901/1d25c1cf-05e9-49b7-ae8c-f2f87d046a8c" alt="Kartik Taneja" height="45" width="45" /></a>
 
 </p>
 

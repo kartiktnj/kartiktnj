@@ -9,6 +9,8 @@
 <p align="left">
 <a href="https://twitter.com/kartiktnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartiktnj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kartiktnj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adithya saish" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/kartiktnj](https://kartiktaneja.vercel.app/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://github.com/kartiktnj/kartiktnj/assets/59070901/1d25c1cf-05e9-49b7-ae8c-f2f87d046a8c)" alt="Kartik Taneja" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
